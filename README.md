@@ -1,12 +1,12 @@
-<img width="1662" height="720" alt="Working Sheet" src="https://github.com/user-attachments/assets/b57be271-f2dc-428d-b435-64312185bf7c" /><img width="1662" height="720" alt="Working Sheet" src="https://github.com/user-attachments/assets/a6dc8e17-972f-4106-afdb-9b87917fe698" /># Project Title: Designing a Sales Dashboard in Excel
+# Project Title: Designing a Sales Dashboard in Excel
 ### Submitted By: Prerna M. Kalambe
 
 ## 1. Objective 
 <br>The objective of this project is to design a fully functional Sales Dashboard in Excel that allows users to:
-<br> - •	Analyse sales based on different product categories
-<br> - •	View month-wise sales and profit trends
-<br> - •	Evaluate region-wise sales performance
-<br> - •	Interact with the dashboard using a dynamic Combo Box
+<br> •	Analyse sales based on different product categories
+<br> •	View month-wise sales and profit trends
+<br> •	Evaluate region-wise sales performance
+<br> •	Interact with the dashboard using a dynamic Combo Box
 <br><br>
 ## 2. Dataset Description
 <br> The dataset provided contains detailed sales records with the following variables:

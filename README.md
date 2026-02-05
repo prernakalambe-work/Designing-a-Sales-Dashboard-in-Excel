@@ -1,6 +1,14 @@
 # Project Title: Designing a Sales Dashboard in Excel
 ### Submitted By: Prerna M. Kalambe
 
+
+### Here Is the Preview of my Final Sales Dashboard 
+
+<img width="1693" height="612" alt="Final Sales Dashboard" src="https://github.com/user-attachments/assets/5913a313-f6d6-4362-9258-25aec476a201" />
+
+
+<br><br>
+
 ## 1. Objective 
 <br>The objective of this project is to design a fully functional Sales Dashboard in Excel that allows users to:
 <br> •	Analyse sales based on different product categories
@@ -73,26 +81,39 @@ The dashboard layout includes:
 <br> •	Helps users easily analyze performance trends
 <br> All project requirements were successfully met and can be verified through [Screenshots](https://github.com/prernakalambe-work/Designing-a-Sales-Dashboard-in-Excel/blob/3d7e728df3256628905d09d67a60831f610253c2/ScreenShots%20for%20results.zip) or [Video](https://github.com/prernakalambe-work/Designing-a-Sales-Dashboard-in-Excel/blob/f2d633e1bffc60ffbf3f5c07a5bb1db9e1eb26e3/Excel%20project%201%20.mp4) for references.
 <br><br>
-## 5. Tools Used
+
+## 5. Business Insight: 
+<br> • July had highest sales but lowest profit percentage
+<br> • West region sales lag behind national average
+<br> • Category X drives 40% of total revenue
+
+<br><br>
+## 6. Tools Used
 <br> Microsoft Excel
 <br> •	SUMIFS
 <br> •	Data Validation
 <br> •	Form Controls (Combo Box)
 <br> •	Charts (Column, Clustered Column)
 <br> •	Formatting and Layout Design
+<br> <br>
 
-<br>
-<br>
+## 7. How to use this dashboards
+<br> 1. Open the Excel file.
+<br> 2. Use the dropdown to filter categories.
+<br> 3. Check monthly/region performance.
+<br> 4. Insights you can derive…
 
-### Here Is the Preview of my Final Sales Dashboard 
-
-<img width="1693" height="612" alt="Final Sales Dashboard" src="https://github.com/user-attachments/assets/5913a313-f6d6-4362-9258-25aec476a201" />
-
-
-<br><br>
+<br> <br>
 
 ### This is working Sheet Preview 
 
 <img width="1662" height="720" alt="Working Sheet" src="https://github.com/user-attachments/assets/bbf9d333-546b-485d-b0d7-12356dd95f1d" />
+
+
+<br> <br>
+
+### Here Is the Preview of my Final Sales Dashboard 
+
+<img width="1693" height="612" alt="Final Sales Dashboard" src="https://github.com/user-attachments/assets/5913a313-f6d6-4362-9258-25aec476a201" />
 
 
